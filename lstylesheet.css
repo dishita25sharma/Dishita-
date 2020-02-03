@@ -1,0 +1,46 @@
+.heading{
+	 font size="300";
+	 text-align: center;
+	 	 color : #ff0000;
+}
+.heading_2{
+	font size ="100";
+}
+.container{
+	background-image: url("web.jpg");
+	background-size: cover;
+    background-color: rgba(0,0,255,0.4);
+
+}
+.btn{
+	text-align : center ;
+    margin-left:50%;
+    margin-right:50%;
+    height:150px;
+    width:150px;
+}
+.btnc{
+	text-align : center ;
+    margin-left:50%;
+    margin-right:50%;
+    height:150px;
+    width:150px;
+}
+.containe{
+	background-image: url("web.jpg");
+	background-size: cover;
+    background-color: rgba(255,255,0,0.3);
+
+}
+.head{
+	color:#D2691E;
+}
+.hea{
+	color:#FF7F50;
+}
+.cont{
+	background-image: url("web.jpg");
+	background-size: cover;
+    background-color: rgba(0,255,0,0.1);
+
+}
